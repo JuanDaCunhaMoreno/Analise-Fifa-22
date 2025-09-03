@@ -1,6 +1,5 @@
 # Análise de Dados de Jogadores do FIFA 22 ⚽
 
-![FIFA Banner](https://i.imgur.com/A4w1f4I.jpg)
 
 ## 📖 Visão Geral do Projeto
 
